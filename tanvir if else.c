@@ -22,7 +22,6 @@ int main()
 		scanf("%f", &width);
 		printf("Enter the length of the rectangle: ");
 		scanf("%f", &length);
-
 		area = width*length;
 		printf("The area of the rectangle is:%f", area);
 	}
