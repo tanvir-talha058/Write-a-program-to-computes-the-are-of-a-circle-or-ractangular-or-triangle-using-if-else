@@ -16,7 +16,6 @@ int main()
 		area = 3.1416*radius*radius;
 		printf("The area of the circle with radius %f is:", radius, area);
 	}
-
 	if(choice ==2)
 	{
 		printf("Enter the Width of the rectangle: ");
