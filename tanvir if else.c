@@ -4,12 +4,10 @@ int main()
 {
 	float area, radius, width, length, a, b, c,s;
 	int choice;
-
 	printf("Choose an Option to compute:\n ");
 	printf("1: Area of the Circle\n ");
 	printf("2: Area of the Rectangle\n ");
 	printf("3: Area of the Triangle\n ");
-
 	scanf("%d", &choice);
 	if(choice==1)
 	{
