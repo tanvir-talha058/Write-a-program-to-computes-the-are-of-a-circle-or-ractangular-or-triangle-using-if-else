@@ -13,8 +13,7 @@ int main()
 	scanf("%d", &choice);
 	
 	if(choice==1)
-
-		
+	
 	{
 		printf("Enter the radius of the Circle: ");
 		scanf("%f", &radius);
