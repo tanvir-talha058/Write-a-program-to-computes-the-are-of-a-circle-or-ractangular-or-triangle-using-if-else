@@ -23,6 +23,7 @@ int main()
 	}
 	
 	if(choice ==2)
+		
 	{
 		
 		printf("Enter the Width of the rectangle: ");
