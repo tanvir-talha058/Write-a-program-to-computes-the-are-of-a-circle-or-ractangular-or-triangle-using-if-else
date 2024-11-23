@@ -10,6 +10,7 @@ int main()
 	printf("3: Area of the Triangle\n ");
 	scanf("%d", &choice);
 	
+
 	if(choice==1)
 	
 	{
